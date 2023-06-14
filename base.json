@@ -2,7 +2,7 @@
   "prestamos":[
   {
     "id": 1,
-    "libro": "Agustin",
+    "libro": "wow",
     "usuario": "Victor Sinche",
     "inicio": "12/11/2023",
     "fin": "22/12/2023"
